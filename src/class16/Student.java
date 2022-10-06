@@ -24,7 +24,7 @@ Print out  total number of students
         Student.numberOfStudent++;    // // always better to use class name to call static variable
 
         System.out.println(Student.numberOfStudent);
-        System.out.println(Student.numberOfStudent);
+        System.out.println(numberOfStudent);
 
     }
 }
