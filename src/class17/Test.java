@@ -1,22 +1,41 @@
 package class17;
-
+  // print the number of objects created
 class Test {
-      String spaceOut(String s) {
-          for (int i = 0; i < s.length(); i++) {
-              System.out.print(s.charAt(i)+ " ");
+    static int count;
 
-          }
-          return s;
-
-      }
-
-      public static void main(String[] args) {
-          Test space = new Test();
-          space.spaceOut("hello");
+    public Test(){
+        count++;
 
 
-      }
-  }
+    }
+
+
+    public static void main(String[] args) {
+
+        Test obj1 = new Test();
+        Test obj2 = new Test();
+        Test obj3 = new Test();
+
+        System.out.println(Test.count);
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

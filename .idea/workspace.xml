@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/class17/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class17/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task1FromPck18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class18/ThisKeywordDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class17/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Application.School">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class17.Dog" />
+}]]></component>
+  <component name="RunManager" selected="Application.CarTester">
+    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.CarTester" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class17.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class14.MethodsDemo3" />
+    <configuration name="Horse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.Horse" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class14.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review2.School" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.Student" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review2.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shelter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review2.Shelter" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.Task4" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review2.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class17.Test" />
+    <configuration name="ThisKeywordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class18.ThisKeywordDemo" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class17.*" />
+          <option name="PATTERN" value="class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.School" />
-        <item itemvalue="Application.Shelter" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MethodsDemo3" />
-        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.CarTester" />
+        <item itemvalue="Application.Horse" />
+        <item itemvalue="Application.ThisKeywordDemo" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665080664133</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Batch14IntelliJ">
+      <created>1665107769984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665107769984</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
