@@ -61,7 +61,7 @@ class Cat extends Animal {
             Dog dog=new Dog("jacky", "German", "Black");
             dog.printInfo();
 
-            Dog cat=new Dog("Thomas", "Persian", "gold");
+            Cat cat=new Cat("Thomas", "Persian", "gold");
             cat.printInfo();
         }
 

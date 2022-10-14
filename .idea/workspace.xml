@@ -2,16 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/class19/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class19/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class19/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/MethodOverloadingD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class21/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/Peru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3review3_2/TeacherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3review3_2/USA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class17/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +67,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cat$TestAnimal">
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.Book" />
+  <component name="RunManager" selected="Application.TeacherTest">
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21.HW2" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19.*" />
+          <option name="PATTERN" value="class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat$TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.Cat$TestAnimal" />
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21.HW3" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19.*" />
+          <option name="PATTERN" value="class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.Task2" />
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3.School" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19.*" />
+          <option name="PATTERN" value="review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.Test" />
+    <configuration name="TeacherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3review3_2.TeacherTest" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19.*" />
+          <option name="PATTERN" value="review3review3_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestChair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.TestChair" />
+    <configuration name="class21.HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21.HW1" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19.*" />
+          <option name="PATTERN" value="class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cat$TestAnimal" />
-        <item itemvalue="Application.TestChair" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.TeacherTest" />
+        <item itemvalue="Application.School" />
+        <item itemvalue="Application.HW2" />
+        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.class21.HW1" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665255510619</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Batch14IntelliJ">
+      <created>1665338717996</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665338717996</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

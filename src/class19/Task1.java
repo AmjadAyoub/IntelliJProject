@@ -9,6 +9,7 @@ public class Task1 {
     public static void main(String[] args) {
         Student1 josh=new Student1("Naughty Josh","Earth");
         josh.displayInfo();
+
     }
 
 }
@@ -21,7 +22,7 @@ class Student1{
         this.address=address;
     }
 
-    void displayInfo(){
+     void displayInfo(){
         System.out.println("Name "+name+" Address "+address);
     }
 
