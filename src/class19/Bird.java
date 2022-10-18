@@ -14,7 +14,7 @@ public class Bird {
 
     }
     void printInfo() {
-        System.out.println("Name "+name+" Color "+color+" Agee "+age+" Weight "+weight);
+        System.out.println("Name "+name+" Color "+color+" Age "+age+" Weight "+weight);
     }
 }
 
