@@ -2,36 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/class21/HW2AsgharWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class22/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/IDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit163.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit165.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review3/Replit158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class20/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit166.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit170.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit175.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Replit177.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review4/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review4/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review4/Fruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class19/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19/Bird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +60,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Replit165">
-    <configuration name="Replit161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit161" />
+  <component name="RunManager" selected="Application.Banana">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review4.Apple" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Banana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review4.Banana" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Replit175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.Replit175" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit162" />
+    <configuration name="Replit176" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.Replit176" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -100,34 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit163" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Replit164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit164" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Replit165" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit165" />
+    <configuration name="Replit177" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.Replit177" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Replit165" />
-        <item itemvalue="Application.Replit164" />
-        <item itemvalue="Application.Replit163" />
-        <item itemvalue="Application.Replit162" />
-        <item itemvalue="Application.Replit161" />
+        <item itemvalue="Application.Banana" />
+        <item itemvalue="Application.Apple" />
+        <item itemvalue="Application.Replit177" />
+        <item itemvalue="Application.Replit176" />
+        <item itemvalue="Application.Replit175" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665713114222</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Batch14IntelliJ">
+      <created>1666058675479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666058675479</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
