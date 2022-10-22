@@ -34,6 +34,7 @@ class Main2 implements Functions {
 
     @Override
     public void display(double result) {
+
         System.out.println("Result is ::: "+result);
     }
 

@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/class20/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit173.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit175.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit176.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Replit177.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review4/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review4/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review4/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review4/ExampleSuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review4/QuizQuestion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class23/Replit177.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23/Replit177.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,35 +51,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Banana">
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review4.Apple" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Banana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review4.Banana" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Replit175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit175" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Replit173" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.Replit173" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit176" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit176" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Task1" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class23.*" />
+          <option name="PATTERN" value="project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +78,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit177" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23.Replit177" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Task2" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class23.*" />
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Task3" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Task4" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Banana" />
-        <item itemvalue="Application.Apple" />
-        <item itemvalue="Application.Replit177" />
-        <item itemvalue="Application.Replit176" />
-        <item itemvalue="Application.Replit175" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Replit173" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666058675479</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Batch14IntelliJ">
+      <created>1666318227057</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666318227057</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +246,10 @@
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
