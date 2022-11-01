@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/ArrayListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/ArrayListDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/ArrayListDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/ArrayListDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/WhyCollectionFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/ContainsAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/GenericCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/HW1OtherWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/HW2OtherWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo4WithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/RemoveAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/WhyWeNeedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review5/Juice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review5/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class23/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class23/Replit177.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23/Replit177.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666464654694</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Batch14IntelliJ">
+      <created>1667260223229</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667260223229</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
