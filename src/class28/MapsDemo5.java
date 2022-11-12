@@ -12,6 +12,7 @@ public class MapsDemo5 {
         items.put("Keyboard", 100.0);
         items.put("flower", 1.0);
 
+
     /*   var iterator=items.entrySet().iterator();
        while (iterator.hasNext()){
            var item=iterator.next();
