@@ -1,11 +1,9 @@
 package class27;
 
-import java.util.ArrayList;
-
 public class Dog {
-   private String name;
-   private String color;
-   private String breed;
+    private String name;
+    private String color;
+    private String breed;
 
     public Dog(String name, String color, String breed) {
         setName(name);
@@ -38,15 +36,24 @@ public class Dog {
         this.breed = breed;
         // or we can type to and then select the last option (third one)
     }
-public String toString(){
-        return name+" "+breed+" "+color;
 
-    // or we can type to and then select the last option (third one)
+  //  public String toString() {
+   //     return name + " " + breed + " " + color;
+
+        // or we can type to and then select the last option (third one)
+ //   }
+
+    public String toString() {
+        return "Dog{" +
+                "name='" + name + '\'' +
+                ", color='" + color + '\'' +
+                ", breed='" + breed + '\'' +
+                '}';
+
+    }
 }
 
-}
-
-class ArrayListDemo {
+/*class ArrayListDemo {
     public static void main(String[] args) {
         ArrayList<Dog> dogs=new ArrayList<>();
 
@@ -59,7 +66,7 @@ class ArrayListDemo {
         dogs.add(dog3); */
 
 
-        dogs.add(new Dog("Tomy","Black","German"));
+     /*   dogs.add(new Dog("Tomy","Black","German"));
         dogs.add(new Dog("Jony","White","BullDog"));
         dogs.add(new Dog("Kimi","Brown","German"));
 
@@ -74,5 +81,5 @@ class ArrayListDemo {
         System.out.println(dog2);
         System.out.println(dog3); */
 
-    }
-}
+ //   }   /*
+//    }   /*
