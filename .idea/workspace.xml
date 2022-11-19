@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/class28/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HW5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HW6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HW7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/MethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/PrintMapForEachRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/PrintMapsInsideList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/ReadingExcelFileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/ReadingExcelFileDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/ReadingPropertiesFilesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class29/Review1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/FinallyBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/ThrowVsThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/TryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class30/TypesOfExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review7/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review7/InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review7/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review7/VarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Test.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review6/ListDemoWithCustomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/ListDemoWithCustomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review6/ListsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/ListsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review6/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review6/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/SetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review6/SetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/SetDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/MapsDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28/MapsDemo4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +78,13 @@
       <recent name="C:\Users\Joe\IdeaProjects\Batch14\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Review1">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.ArrayListDemo" />
+  <component name="RunManager" selected="Application.Replit209">
+    <configuration name="ExceptionDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.ExceptionDemo3" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo1" />
+    <configuration name="FinallyBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.FinallyBlockDemo" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class29.MethodsDemo" />
+    <configuration name="Replit209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.Replit209" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class29.*" />
+          <option name="PATTERN" value="Replits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingExcelFileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class29.ReadingExcelFileDemo2" />
+    <configuration name="TryCatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.TryCatchDemo" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class29.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Review1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class29.Review1" />
+    <configuration name="TypesOfExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.TypesOfExceptions" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class29.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Review1" />
-        <item itemvalue="Application.ReadingExcelFileDemo2" />
-        <item itemvalue="Application.ExcelDemo1" />
-        <item itemvalue="Application.MethodsDemo" />
-        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.Replit209" />
+        <item itemvalue="Application.FinallyBlockDemo" />
+        <item itemvalue="Application.TryCatchDemo" />
+        <item itemvalue="Application.TypesOfExceptions" />
+        <item itemvalue="Application.ExceptionDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668285496383</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Batch14IntelliJ">
+      <created>1668470311849</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668470311849</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

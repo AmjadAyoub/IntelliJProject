@@ -5,7 +5,8 @@ package class28;
 import java.util.HashMap;
 
 
-public class MapsDemo4 {
+public class
+MapsDemo4 {
     public static void main(String[] args) {
         String name;
         HashMap<String, Double> items = new HashMap<>();

@@ -1,4 +1,4 @@
-package Review6;
+package review6;
 
 import java.util.Objects;
 
