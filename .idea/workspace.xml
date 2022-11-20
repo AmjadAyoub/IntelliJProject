@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/ExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/ExceptionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/ExceptionDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/FinallyBlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/ThrowVsThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/TryCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class30/TypesOfExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/MapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review7/VarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Review6/ListDemoWithCustomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/ListDemoWithCustomClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Review6/ListsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/ListsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Review6/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/MapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Review6/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Review6/SetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/SetDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Review6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review6/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class28/MapsDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28/MapsDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Replits/Replit209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Replit209.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668470311849</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Batch14IntelliJ">
+      <created>1668889726648</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668889726648</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
