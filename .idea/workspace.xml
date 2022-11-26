@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit210.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit211.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit212.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Replit213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/AgeNotAllowed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class30/ThrowVsThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class30/ThrowVsThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class30/TypesOfExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class30/TypesOfExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -302,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668974955802</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Batch14IntelliJ">
+      <created>1669495976398</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669495976398</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
