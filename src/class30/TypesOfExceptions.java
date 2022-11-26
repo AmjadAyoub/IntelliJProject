@@ -2,8 +2,6 @@ package class30;
 
 import utils.ExcelReader;
 
-import java.io.IOException;
-
 public class TypesOfExceptions {
     public static void main(String[] args) {
         String name=null;
@@ -28,7 +26,9 @@ public class TypesOfExceptions {
 
         try {
             System.out.println(ExcelReader.read("/Users/apple/IdeaProjects/SDETBatch14Java/Data/Test.xlsx"));
-        } catch (IOException e) {
+        } catch (NullPointerException e){
+
+        } catch (Exception e) {
             System.out.println("Backup code");
         }
         System.out.println("important line of code");

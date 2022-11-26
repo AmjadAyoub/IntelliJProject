@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a2892-a0e0-4183-b13b-4c68487006d3" name="Changes" comment="Batch14IntelliJ">
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits/Replit213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review8/AgeNotAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review8/ExceptionDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Replit209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Replit209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class30/ThrowVsThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class30/ThrowVsThrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class30/TypesOfExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class30/TypesOfExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +70,20 @@
       <recent name="C:\Users\Joe\IdeaProjects\Batch14\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Replit209">
+  <component name="RunManager" selected="Application.Replit213">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review8.ExceptionDemo" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExceptionDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class30.ExceptionDemo3" />
       <module name="SDETBatch14Java" />
@@ -72,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class30.FinallyBlockDemo" />
+    <configuration name="Replit213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.Replit213" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class30.*" />
+          <option name="PATTERN" value="Replits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits.Replit209" />
+    <configuration name="ThrowVsThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.ThrowVsThrows" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Replits.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesOfExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class30.TypesOfExceptions" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Replit209" />
-        <item itemvalue="Application.FinallyBlockDemo" />
+        <item itemvalue="Application.Replit213" />
         <item itemvalue="Application.TryCatchDemo" />
-        <item itemvalue="Application.TypesOfExceptions" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.ThrowVsThrows" />
         <item itemvalue="Application.ExceptionDemo3" />
       </list>
     </recent_temporary>
@@ -283,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668889726648</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Batch14IntelliJ">
+      <created>1668974955802</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1668974955802</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
